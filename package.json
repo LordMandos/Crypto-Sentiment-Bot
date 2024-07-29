@@ -1,0 +1,19 @@
+{
+  "name": "crypto-sentiment-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-cache": "^5.1.2",
+    "nodemailer": "^6.9.14",
+    "rettiwt-api": "^3.0.3",
+    "sentiment": "^5.0.2"
+  }
+}
